@@ -236,7 +236,7 @@ export const projects = [
     date: "February 2023 - April 2023",
     description:
       "A Telemedicine that predicts disease and suggests medicine for that disease by providing symptoms as an input through IVR by users and used twilio to make process calls between user and model and model is trained by using RandomForestClassifier on relevant dataset.",
-    image: "https://github.com/rahulksahani810/Portfolio_website/blob/master/src/images/projects/criticai%20image.jpeg?raw=true",
+    image: "https://github.com/rahulksahani810/Portfolio_website/blob/master/src/images/projects/Remedi_logo.png?raw=true",
     tags: [
       "Python",
       "Random Forest Classifier",
