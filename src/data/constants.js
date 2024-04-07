@@ -216,7 +216,7 @@ export const Bio = {
       date: "September 2023 - December 2023",
       description:
         "Developed a website that generates an informed summary of a game, based on customer review extracted from the internet by Web Scraping and NLP. The website also provides a sentiment analysis of the reviews and a rating based on the reviews.",
-      image: null,
+      image: "https://github.com/rahulksahani810/Portfolio_website/blob/master/src/images/projects/criticai%20image.jpeg?raw=true",
       tags: [
         "Docker",
         "React Js",
@@ -225,8 +225,26 @@ export const Bio = {
         "VectorDBs",
 
       ],
-      category: "web app and machine learning",
+      category: "web app",
       github: "https://github.com/critic-ai",
+      webapp: null,
+      demo: "https://www.youtube.com/watch?v=j67vs5kmeQA"
+    },
+    {
+      id: 1,
+      title: "Remedi",
+      date: "February 2023 - April 2023",
+      description:
+        "A Telemedicine that predicts disease and suggests medicine for that disease by providing symptoms as an input through IVR by users and used twilio to make process calls between user and model and model is trained by using RandomForestClassifier on relevant dataset.",
+      image: "https://github.com/rahulksahani810/Portfolio_website/blob/master/src/images/projects/criticai%20image.jpeg?raw=true",
+      tags: [
+        "Python",
+        "Random Forest Classifier",
+        "Twilio",
+        "SciKit-learn",
+      ],
+      category: "machine learning",
+      github: "https://github.com/rahulksahani810/probable-winner",
       webapp: null,
       demo: "https://www.youtube.com/watch?v=j67vs5kmeQA"
     },
